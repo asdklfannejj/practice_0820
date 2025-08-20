@@ -6,3 +6,7 @@ streamlit
 dotenv
 pdfminer.six
 faiss-cpu
+streamlit
+langchain-text-splitters
+python-dotenv
+yfinance
